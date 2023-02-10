@@ -1,1 +1,2 @@
-ls -anl
+#!/bin/bash
+ls -a -n -l
