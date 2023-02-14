@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "NUM has the value: $(printf "%.2f" $NUM)"
